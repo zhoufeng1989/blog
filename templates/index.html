@@ -1,0 +1,10 @@
+$def with (articals)
+<ul>
+$for artical in articals:
+    <li>
+    <p>$artical['title']</p>
+    <p>$artical['content'][:20]</p>
+    <p>$artical['update_time']</p>
+    <p>$artical['create_time']</p>
+    </li>
+<ul>

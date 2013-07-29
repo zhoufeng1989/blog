@@ -1,0 +1,603 @@
+INFO - [Jul  1 21:09:17] resolve common.GOOGLE_HOSTS domain=['203.208.46.131', '203.208.46.132', '203.208.46.133', '203.208.46.134', '203.208.46.135', '203.208.46.136', '203.208.46.137', '203.208.46.138'] to iplist
+INFO - [Jul  1 21:09:17] speedtest google_cn iplist average_timing=155.30 ms, need_switch=False
+INFO - [Jul  1 21:09:17] resolve common.GOOGLE_HOSTS domain to iplist=['203.208.46.211', '203.208.46.212', '203.208.46.210', '203.208.46.146', '203.208.46.147', '203.208.46.144', '203.208.46.145', '203.208.46.209', '203.208.46.208', '203.208.46.148']
+INFO - [Jul  1 21:09:17] 127.0.0.1:35417 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:19] 127.0.0.1:35417 "GAE GET https://twitter.com/share HTTP/1.1" 302 167
+INFO - [Jul  1 21:09:19] 127.0.0.1:35424 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:20] 127.0.0.1:35424 "GAE GET https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F&url=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F HTTP/1.1" 200 2026
+INFO - [Jul  1 21:09:21] 127.0.0.1:35427 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:21] 127.0.0.1:35428 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:21] 127.0.0.1:35429 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:21] 127.0.0.1:35430 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:22] 127.0.0.1:35429 "GAE GET https://abs.twimg.com/a/1372435402/javascripts/loadrunner.js HTTP/1.1" 200 2702
+INFO - [Jul  1 21:09:22] 127.0.0.1:35430 "GAE GET https://si0.twimg.com/sticky/default_profile_images/default_profile_2_mini.png HTTP/1.1" 200 712
+INFO - [Jul  1 21:09:23] 127.0.0.1:35428 "GAE GET https://abs.twimg.com/a/1372435402/javascripts/i18n/zh-cn.js?1372448340 HTTP/1.1" 200 232897
+INFO - [Jul  1 21:09:23] 127.0.0.1:35427 "GAE GET https://abs.twimg.com/a/1372435402/tfw/css/tfw.bundle.css HTTP/1.1" 200 8706
+INFO - [Jul  1 21:09:23] 127.0.0.1:35439 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:23] 127.0.0.1:35442 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:23] 127.0.0.1:35443 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:24] 127.0.0.1:35439 "GAE GET https://abs.twimg.com/a/1372435402/javascripts/modules/tfw/intents/main.js HTTP/1.1" 200 5402
+INFO - [Jul  1 21:09:24] 127.0.0.1:35442 "GAE GET https://abs.twimg.com/a/1372435402/t1/img/bird-topbar-blue.png HTTP/1.1" 200 523
+INFO - [Jul  1 21:09:24] 127.0.0.1:35448 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:24] 127.0.0.1:35449 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:24] 127.0.0.1:35454 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:25] 127.0.0.1:35457 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:25] 127.0.0.1:35460 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:25] 127.0.0.1:35443 "GAE GET https://abs.twimg.com/a/1372435402/tfw/img/buttons/bg-btn-blue.gif HTTP/1.1" 200 635
+INFO - [Jul  1 21:09:25] 127.0.0.1:35448 "GAE GET https://abs.twimg.com/a/1372435402/javascripts/modules/tfw/intents/tweetbox.js HTTP/1.1" 200 5020
+INFO - [Jul  1 21:09:25] 127.0.0.1:35449 "GAE GET https://abs.twimg.com/a/1372435402/javascripts/modules/imports/jquery.js HTTP/1.1" 200 26869
+INFO - [Jul  1 21:09:26] 127.0.0.1:35463 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:26] 127.0.0.1:35466 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:26] 127.0.0.1:35467 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:27] 127.0.0.1:35463 "GAE GET https://abs.twimg.com/a/1372435402/tfw/img/down-arrow.png HTTP/1.1" 200 247
+INFO - [Jul  1 21:09:27] 127.0.0.1:35467 "GAE GET https://twitter.com/favicon.ico HTTP/1.1" 200 1150
+INFO - [Jul  1 21:09:28] 127.0.0.1:35466 "GAE POST https://twitter.com/intent/tweet/update HTTP/1.1" 302 207
+INFO - [Jul  1 21:09:28] 127.0.0.1:35474 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:28] GAEProxyHandler.do_METHOD_GAE url='https://abs.twimg.com/a/1372435402/tfw/img/down-arrow.png' return SSLError(1, '_ssl.c:1237: error:1409F07F:SSL routines:SSL3_WRITE_PENDING:bad write retry'), abort.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 582, in process_request_thread
+    self.finish_request(request, client_address)
+  File "../google_appengine/goagent/local/proxy.py", line 1371, in finish_request
+  File "/usr/lib/python2.7/SocketServer.py", line 323, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 639, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 343, in handle
+    self.handle_one_request()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 332, in handle_one_request
+    self.wfile.flush() #actually send the response if not already done.
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+  File "/usr/lib/python2.7/ssl.py", line 220, in sendall
+    v = self.send(data[count:])
+  File "/usr/lib/python2.7/ssl.py", line 189, in send
+    v = self._sslobj.write(data)
+SSLError: [Errno 1] _ssl.c:1237: error:1409F07F:SSL routines:SSL3_WRITE_PENDING:bad write retry
+INFO - [Jul  1 21:09:29] 127.0.0.1:35474 "GAE GET https://twitter.com/intent/tweet/complete?latest_status_id=351689005412265984&original_referer=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F&shortened_url=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F&url=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F HTTP/1.1" 200 2111
+INFO - [Jul  1 21:09:29] 127.0.0.1:35477 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:30] 127.0.0.1:35480 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:31] 127.0.0.1:35477 "GAE GET https://abs.twimg.com/a/1372435402/tfw/img/down-arrow.png HTTP/1.1" 200 247
+INFO - [Jul  1 21:09:31] 127.0.0.1:35480 "GAE GET https://abs.twimg.com/a/1372435402/tfw/img/buttons/bg-btn.gif HTTP/1.1" 200 594
+INFO - [Jul  1 21:09:32] 127.0.0.1:35484 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:33] 127.0.0.1:35507 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:33] 127.0.0.1:35508 "FWD CONNECT lh3.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:33] 127.0.0.1:35509 "FWD CONNECT lh4.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:33] 127.0.0.1:35510 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:33] 127.0.0.1:35488 "GAE GET http://stats.wordpress.com/e-201327.js HTTP/1.1" 200 1005
+INFO - [Jul  1 21:09:34] 127.0.0.1:35504 "FWD GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.3&utms=26&utmn=30316412&utmhn=www.skyafar.net&utmcs=UTF-8&utmsr=1280x800&utmvp=1265x688&utmsc=24-bit&utmul=zh-cn&utmje=1&utmfl=11.2%20r202&utmdt=Bootstrap%20Blogger%20Template%20-%20Responsive%20Template%20using%20Twitter%20Bootstrap&utmhid=1794713296&utmr=-&utmp=%2Fbootstrap-blogger-template-responsive%2F&utmht=1372684173281&utmac=UA-40678917-1&utmcc=__utma%3D266340876.1396896331.1372684032.1372684032.1372684032.1%3B%2B__utmz%3D266340876.1372684032.1.1.utmcsr%3Dgoogle%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dbootstrap%252Bblog%252Btheme%3B&utmu=qB~ HTTP/1.1" 200 35
+INFO - [Jul  1 21:09:34] 127.0.0.1:35518 "FWD CONNECT clients1.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:34] 127.0.0.1:35491 "GAE GET http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.9lessons.info&send=false&layout=button_count&width=85&show_faces=false&action=like&colorscheme=light&font&height=21 HTTP/1.1" 200 4889
+INFO - [Jul  1 21:09:34] 127.0.0.1:35492 "GAE GET http://www.facebook.com/plugins/like.php?href=http://www.9lessons.info/2012/03/bootstrap-tutorial-for-blog-design.html&layout=box_count&show_faces=false&width=450&action=like&colorscheme=light HTTP/1.1" 200 4912
+INFO - [Jul  1 21:09:34] 127.0.0.1:35493 "GAE GET http://www.facebook.com/plugins/subscribe.php?href=https%3A%2F%2Fwww.facebook.com%2Fsrinivas.tamada&layout=button_count&show_faces=true&colorscheme=light&font&width=200&appId=223109594375281 HTTP/1.1" 200 5079
+INFO - [Jul  1 21:09:34] 127.0.0.1:35494 "GAE GET http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/9lessons&width=260&connections=10&stream=false&header=false&height=255 HTTP/1.1" 200 7009
+INFO - [Jul  1 21:09:34] 127.0.0.1:35507 "GAE GET https://apis.google.com/_/+1/fastbutton?bsv&size=medium&hl=en-US&origin=http%3A%2F%2Fwww.skyafar.net&url=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.zh_CN.NCl3aH13Vn8.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ HTTP/1.1" 200 11018
+INFO - [Jul  1 21:09:35] 127.0.0.1:35521 "GAE GET http://stats.wordpress.com/g.gif?host=www.skyafar.net&rand=0.7111683536786586&v=ext&j=1%3A2.3&blog=29421574&post=2878&tz=5.5&ref= HTTP/1.1" 200 50
+INFO - [Jul  1 21:09:35] 127.0.0.1:35524 "GAE GET http://www.facebook.com/plugins/like.php?href=http://www.9lessons.info/2012/03/bootstrap-tutorial-for-blog-design.html&layout=box_count&show_faces=false&width=450&action=like&colorscheme=light HTTP/1.1" 200 4914
+INFO - [Jul  1 21:09:35] 127.0.0.1:35527 "GAE GET http://static.ak.fbcdn.net/rsrc.php/v2/yo/r/Kwk4GfRhoa5.js HTTP/1.1" 200 43043
+INFO - [Jul  1 21:09:36] 127.0.0.1:35530 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-ash4/276745_86603360046_1788362284_q.jpg HTTP/1.1" 200 1437
+INFO - [Jul  1 21:09:36] 127.0.0.1:35533 "GAE GET http://profile-a.xx.fbcdn.net/hprofile-ash3/276131_1271733071_264768127_q.jpg HTTP/1.1" 200 2966
+INFO - [Jul  1 21:09:36] 127.0.0.1:35536 "GAE GET http://profile-b.xx.fbcdn.net/hprofile-ash4/275991_100000043524161_2132768107_q.jpg HTTP/1.1" 200 2076
+INFO - [Jul  1 21:09:36] 127.0.0.1:35539 "GAE GET http://profile-a.xx.fbcdn.net/hprofile-prn2/276064_100005971060644_826900164_q.jpg HTTP/1.1" 200 2571
+INFO - [Jul  1 21:09:36] 127.0.0.1:35542 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-ash3/623993_100000397767312_255954777_q.jpg HTTP/1.1" 200 1892
+INFO - [Jul  1 21:09:36] 127.0.0.1:35545 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-ash4/276129_100000953256982_1768844067_q.jpg HTTP/1.1" 200 2697
+INFO - [Jul  1 21:09:36] 127.0.0.1:35548 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-ash2/186439_1636405242_586008480_q.jpg HTTP/1.1" 200 1921
+INFO - [Jul  1 21:09:36] 127.0.0.1:35551 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-frc3/371577_100001215346258_205906495_q.jpg HTTP/1.1" 200 2206
+INFO - [Jul  1 21:09:37] 127.0.0.1:35558 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-ash3/41656_721515828_2881046_q.jpg HTTP/1.1" 200 1734
+INFO - [Jul  1 21:09:37] 127.0.0.1:35561 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-prn2/260629_100003239996606_322710503_q.jpg HTTP/1.1" 200 2554
+INFO - [Jul  1 21:09:39] 127.0.0.1:35554 "GAE GET http://profile.ak.fbcdn.net/hprofile-ak-ash4/275581_100004733435893_1880326076_q.jpg HTTP/1.1" 200 2168
+INFO - [Jul  1 21:09:42] 127.0.0.1:35565 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:44] 127.0.0.1:35565 "GAE GET https://twitter.com/share HTTP/1.1" 302 161
+INFO - [Jul  1 21:09:44] 127.0.0.1:35568 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:45] 127.0.0.1:35568 "GAE GET https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F&url=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F HTTP/1.1" 200 2026
+INFO - [Jul  1 21:09:48] 127.0.0.1:35572 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:09:49] 127.0.0.1:35572 "GAE POST https://twitter.com/intent/tweet/update HTTP/1.1" 200 2164
+INFO - [Jul  1 21:10:01] 127.0.0.1:35587 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:10:01] 127.0.0.1:35584 "FWD GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.3&utms=27&utmn=634537482&utmhn=www.skyafar.net&utmcs=UTF-8&utmsr=1280x800&utmvp=1265x688&utmsc=24-bit&utmul=zh-cn&utmje=1&utmfl=11.2%20r202&utmdt=Bootstrap%20Blogger%20Template%20-%20Responsive%20Template%20using%20Twitter%20Bootstrap&utmhid=1559437311&utmr=http%3A%2F%2Fwww.google.com.hk%2F&utmp=%2Fbootstrap-blogger-template-responsive%2F&utmht=1372684201277&utmac=UA-40678917-1&utmcc=__utma%3D266340876.1396896331.1372684032.1372684032.1372684032.1%3B%2B__utmz%3D266340876.1372684032.1.1.utmcsr%3Dgoogle%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dbootstrap%252Bblog%252Btheme%3B&utmu=qB~ HTTP/1.1" 200 35
+INFO - [Jul  1 21:10:02] 127.0.0.1:35587 "GAE GET https://apis.google.com/_/+1/fastbutton?bsv&size=medium&hl=en-US&origin=http%3A%2F%2Fwww.skyafar.net&url=http%3A%2F%2Fwww.skyafar.net%2Fbootstrap-blogger-template-responsive%2F&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.zh_CN.NCl3aH13Vn8.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ HTTP/1.1" 200 11013
+INFO - [Jul  1 21:10:02] 127.0.0.1:35581 "GAE GET http://stats.wordpress.com/g.gif?host=www.skyafar.net&rand=0.4518377757631242&v=ext&j=1%3A2.3&blog=29421574&post=2878&tz=5.5&ref=http%3A//www.google.com.hk/ HTTP/1.1" 200 50
+INFO - [Jul  1 21:10:21] 127.0.0.1:35594 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372684126538&ust=1372684249916783&usg=AFQjCNFRLDquOAn2Lx440a0AFIQ7_ZAhbg HTTP/1.1" 302 193
+INFO - [Jul  1 21:10:24] 127.0.0.1:35603 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:10:26] 127.0.0.1:35596 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372684126538&ust=1372684254964160&usg=AFQjCNHeYDbh7WmRnlTUJ61YDltNScrX1A HTTP/1.1" 302 193
+INFO - [Jul  1 21:10:32] 127.0.0.1:35599 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372684126538&ust=1372684261319433&usg=AFQjCNEb4jE8EbpNsEdtpqO06W3k-RBpbQ HTTP/1.1" 302 193
+INFO - [Jul  1 21:11:46] 127.0.0.1:35617 "FWD CONNECT www.googleapis.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:11:46] 127.0.0.1:35620 "FWD GET http://clients1.google.com/generate_204 HTTP/1.1" 204 0
+INFO - [Jul  1 21:11:47] 127.0.0.1:35623 "FWD GET http://www.google.com/cse/intl/zh_CN/images/google_custom_search_watermark.gif HTTP/1.1" 200 2072
+INFO - [Jul  1 21:11:47] 127.0.0.1:35629 "FWD GET http://www.google.com/uds/css/clear.gif HTTP/1.1" 200 58
+INFO - [Jul  1 21:11:47] 127.0.0.1:35632 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:11:47] 127.0.0.1:35626 "FWD GET http://www.google.com/uds/css/small-logo.png HTTP/1.1" 304 -
+INFO - [Jul  1 21:17:02] 127.0.0.1:35642 "FWD CONNECT clients1.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:18:49] 127.0.0.1:35653 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 582, in process_request_thread
+    self.finish_request(request, client_address)
+  File "../google_appengine/goagent/local/proxy.py", line 1371, in finish_request
+  File "/usr/lib/python2.7/SocketServer.py", line 323, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 639, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 343, in handle
+    self.handle_one_request()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 331, in handle_one_request
+    method()
+  File "../google_appengine/goagent/local/proxy.py", line 2037, in do_GET
+  File "../google_appengine/goagent/local/proxy.py", line 2027, in first_run
+  File "/usr/lib/python2.7/genericpath.py", line 54, in getmtime
+    return os.stat(filename).st_mtime
+OSError: [Errno 2] No such file or directory: '../google_appengine/goagent/local/proxy.pac'
+Unhandled exception in thread started by <function wrap at 0x88126bc>
+------------------------------------------------------
+GoAgent Version    : 3.0.2 (python/2.7.2 pyopenssl/0.12)
+Listen Address     : 127.0.0.1:8087
+GAE Mode           : https
+GAE Profile        : google_cn
+GAE APPID          : zhoufeng8912
+Pac Server         : http://127.0.0.1:8086/proxy.pac
+Pac File           : file:///home/zhou-feng/google_appengine/goagent/local/proxy.pac
+------------------------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 35463)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('127.0.0.1', 46396)
+----------------------------------------
+Traceback (most recent call last):
+  File "../google_appengine/goagent/local/proxy.py", line 496, in wrap
+    return target(*args, **kwargs)
+  File "../google_appengine/goagent/local/proxy.py", line 2138, in <lambda>
+    spawn_later(600, lambda x: urllib.request.build_opener(urllib.request.ProxyHandler({})).open(x), url)
+  File "/usr/lib/python2.7/urllib2.py", line 394, in open
+    response = self._open(req, data)
+  File "/usr/lib/python2.7/urllib2.py", line 412, in _open
+    '_open', req)
+  File "/usr/lib/python2.7/urllib2.py", line 372, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 1201, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/usr/lib/python2.7/urllib2.py", line 1174, in do_open
+    r = h.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1027, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 407, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 371, in _read_status
+    raise BadStatusLine(line)
+httplib.BadStatusLine: ''
+INFO - [Jul  1 21:23:30] 127.0.0.1:35676 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:24:44] 127.0.0.1:35685 "FWD CONNECT clients1.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:24:54] 127.0.0.1:35689 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:27:44] 127.0.0.1:35706 "FWD CONNECT clients1.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:27:48] 127.0.0.1:35709 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:31:52] 127.0.0.1:35788 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:34:20] 127.0.0.1:35791 "FWD GET http://www.google.com/ HTTP/1.1" 302 376
+INFO - [Jul  1 21:34:21] 127.0.0.1:35792 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/&ust=1372685690070800&usg=AFQjCNEvIVc7MmlB0yz6x6PlQfvVTt2LXw HTTP/1.1" 302 177
+INFO - [Jul  1 21:34:21] 127.0.0.1:35800 "FWD CONNECT www.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 21:34:33] 127.0.0.1:35805 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:37:26] 127.0.0.1:35815 "FWD CONNECT www.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 21:37:41] 127.0.0.1:35818 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:38:46] 127.0.0.1:35827 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:38:48] 127.0.0.1:35830 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372685926539&ust=1372685957142827&usg=AFQjCNHwVdlbHczyo_HckuxwuMI3t5r0ZQ HTTP/1.1" 302 195
+INFO - [Jul  1 21:38:52] 127.0.0.1:35834 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372685926539&ust=1372685961136783&usg=AFQjCNF9YoVFJ8S0eK_6rOWV41wYCmwirQ HTTP/1.1" 302 195
+INFO - [Jul  1 21:38:58] 127.0.0.1:35837 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372685926539&ust=1372685967454140&usg=AFQjCNFukom8HqLu22rs-ezUot3xetPd7w HTTP/1.1" 302 195
+INFO - [Jul  1 21:39:46] 127.0.0.1:35842 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:48:14] 127.0.0.1:35850 "FWD GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.3&utms=1&utmn=1493394096&utmhn=www.zhihu.com&utmt=var&utmht=1372686494329&utmac=UA-20961733-1&utmcc=__utma%3D155987696.76367596.1369830514.1372686494.1372686494.1%3B%2B__utmz%3D155987696.1372686494.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B%2B__utmv%3D155987696.Not%2520Logged%2520In%3B&utmu=oAAQAAAAAAAAAAAAAAAB~ HTTP/1.1" 200 35
+INFO - [Jul  1 21:48:14] 127.0.0.1:35853 "FWD GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.3&utms=2&utmn=1684309532&utmhn=www.zhihu.com&utmcs=UTF-8&utmsr=1280x800&utmvp=1164x626&utmsc=24-bit&utmul=zh-cn&utmje=1&utmfl=11.2%20r202&utmdt=%E7%9F%A5%E4%B9%8E%E9%98%85%E8%AF%BB&utmhid=205400449&utmr=-&utmp=%2Fread&utmht=1372686494353&utmac=UA-20961733-1&utmcc=__utma%3D155987696.76367596.1369830514.1372686494.1372686494.1%3B%2B__utmz%3D155987696.1372686494.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B%2B__utmv%3D155987696.Not%2520Logged%2520In%3B&utmu=qAAQAAAAAAAAAAAAAAAB~ HTTP/1.1" 200 35
+INFO - [Jul  1 21:48:24] 127.0.0.1:35869 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:02] 127.0.0.1:35872 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:03] 127.0.0.1:35875 "FWD CONNECT accounts.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:04] 127.0.0.1:35878 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:04] 127.0.0.1:35881 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:04] 127.0.0.1:35882 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:04] 127.0.0.1:35884 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:04] 127.0.0.1:35888 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:04] 127.0.0.1:35890 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:05] 127.0.0.1:35896 "AGENT CONNECT accounts.youtube.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:05] 127.0.0.1:35897 "AGENT CONNECT accounts.youtube.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:05] 127.0.0.1:35878 "GAE GET https://ssl.gstatic.com/images/logos/google_logo_41.png HTTP/1.1" 200 6321
+INFO - [Jul  1 21:49:05] 127.0.0.1:35900 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:05] 127.0.0.1:35881 "GAE GET https://ssl.gstatic.com/accounts/ui/google-signin-flat.png HTTP/1.1" 200 1756
+INFO - [Jul  1 21:49:06] 127.0.0.1:35882 "GAE GET https://ssl.gstatic.com/accounts/services/mail/gradient.png HTTP/1.1" 200 1673
+INFO - [Jul  1 21:49:06] 127.0.0.1:35884 "GAE GET https://ssl.gstatic.com/accounts/services/mail/buttons/google_play_zh-CN.png HTTP/1.1" 200 3167
+INFO - [Jul  1 21:49:06] 127.0.0.1:35888 "GAE GET https://ssl.gstatic.com/accounts/services/mail/buttons/apple_store_zh-CN.png HTTP/1.1" 200 2135
+INFO - [Jul  1 21:49:06] 127.0.0.1:35890 "GAE GET https://ssl.gstatic.com/accounts/services/mail/phone.png HTTP/1.1" 200 53691
+INFO - [Jul  1 21:49:06] 127.0.0.1:35903 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:06] 127.0.0.1:35897 "GAE GET https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1483780034&timestamp=1372686545490 HTTP/1.1" 200 1295
+INFO - [Jul  1 21:49:06] 127.0.0.1:35900 "GAE GET https://ssl.gstatic.com/images/icons/ui/common/universal_language_settings-21.png HTTP/1.1" 200 199
+INFO - [Jul  1 21:49:21] 127.0.0.1:35896 "GAE GET https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2ctXZaX5JNl9qkX%2BJH%2Bi8EVUlalHXyoiRla6azJgvVsVsXhJYBwuLsCpM%2FfrGhCyTRye%2BZcgc2FXgGg3C2Zpi%2BxfwUvDgzYKtBE4zL2j0biwENtBV9U04DE0NlJeCWRz%2BTP1qOdAod9kYS4hz4aSQNVKP3WmFEtYNqf%2BODljdOhtGB63PSF8uq3uy%2BdoqICLIczPfoe8l0nCTl4lbKUkXgux2ARrBkBQjiWcvNHPXuP1dmYRBaoSvtP5pg2CogdCpy7sb6xt80aFz3VwI6eT7zmnHn%2FOq0oTAOLaMAQQ51xtIM6yzayjcL%2BUecO1bypmyjUbZ3FCNxprvCCxF%2FBhtsrgdltKf4kc7IvOBw1mwV4Cjbou5zewI2TWQGv7yLafwgR1PcLnjcMkxg9BOhykFOo5l4X9HPh43UaJlQ7OurwmjGyVeFo%3D&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm%26auth%3DDQAAAI4AAADGJ1vE7-F0woM650fjf_Ezr7vkQ7XP9Q7oW55hFZ1nyNpIui77n40ksGcw1KUD2qIik0hYo2uhlJo8HXO_aeBseUeYs5rQrWUA4g-rP7zrL5uQgBj_bS5nRiWC5iIY8q7Y0oF_s7FVslq_HiCSb7yLz62C9c7ItTAgNNs_g6h-IM4jSVOjfPCQkwvro-o5FSQ HTTP/1.1" 302 342
+INFO - [Jul  1 21:49:36] 127.0.0.1:35948 "FWD CONNECT mail-attachment.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:38] 127.0.0.1:35970 "FWD CONNECT lh4.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:38] 127.0.0.1:35975 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:38] 127.0.0.1:35976 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:39] 127.0.0.1:35979 "FWD CONNECT clients2.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:39] 127.0.0.1:35984 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:40] 127.0.0.1:35994 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:40] 127.0.0.1:35984 "GAE GET https://ssl.gstatic.com/gb/js/smm_bd3373736c11ad47d8c1827386d1fbba.js HTTP/1.1" 200 34801
+INFO - [Jul  1 21:49:40] 127.0.0.1:35995 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:40] 127.0.0.1:36002 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:40] 127.0.0.1:35976 "GAE GET https://ssl.gstatic.com/inputtools/js/ln/6/zh-Hans.js HTTP/1.1" 304 0
+INFO - [Jul  1 21:49:41] 127.0.0.1:35994 "GAE GET https://ssl.gstatic.com/inputtools/images/ita_sprite1.png HTTP/1.1" 304 0
+INFO - [Jul  1 21:49:41] 127.0.0.1:35996 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/setgmail%3Fzx%3D4weqk66qwqgr&ust=1372686609658309&usg=AFQjCNEIiNGlQuSVIh9g1-6AMkj4JuZ8kg HTTP/1.1" 302 199
+INFO - [Jul  1 21:49:41] 127.0.0.1:36023 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:41] 127.0.0.1:36002 "GAE GET https://ssl.gstatic.com/ui/v1/icons/mail/wbt/hangouts_icon16.png HTTP/1.1" 304 0
+INFO - [Jul  1 21:49:41] 127.0.0.1:36027 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:41] 127.0.0.1:36029 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:41] 127.0.0.1:35995 "GAE GET https://ssl.gstatic.com/inputtools/images/flat_property_icons.png HTTP/1.1" 304 0
+INFO - [Jul  1 21:49:41] 127.0.0.1:36030 "FWD CONNECT www.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:42] 127.0.0.1:36040 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:42] 127.0.0.1:36029 "GAE GET https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.aBqw11eoBzM.O/m=iframes_styles_hover,iframes_styles_slide_menu/exm=googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/am=EA/rs=AItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA/cb=gapi.loaded_1 HTTP/1.1" 200 17088
+INFO - [Jul  1 21:49:42] 127.0.0.1:36027 "GAE GET https://plus.google.com/u/0/_/streamwidgets/recentposts?origin=https%3A%2F%2Fmail.google.com&hl=zh-CN&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 3578
+INFO - [Jul  1 21:49:43] 127.0.0.1:36023 "GAE POST https://plus.google.com/u/0/_/n/gcosuc?origin=https%3A%2F%2Fmail.google.com HTTP/1.1" 200 31
+INFO - [Jul  1 21:49:43] 127.0.0.1:36044 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:43] 127.0.0.1:36045 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:43] 127.0.0.1:36048 "AGENT CONNECT www.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:43] 127.0.0.1:36053 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:43] 127.0.0.1:36054 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:43] 127.0.0.1:36040 "GAE GET https://ssl.gstatic.com/cloudsearch/static/o/js/130512-2359-d38d21cfbb2b90e2/module HTTP/1.1" 304 0
+INFO - [Jul  1 21:49:44] 127.0.0.1:36044 "GAE GET https://plus.google.com/_/scs/apps-static/_/ss/k=oz.recentposts.1hwu2kc7j7941.L.W.O/am=UAAB/rs=AItRSTO_LjdmJK7tZ4iLXczE_vfhxuFvOw HTTP/1.1" 200 4695
+INFO - [Jul  1 21:49:44] 127.0.0.1:36045 "GAE GET https://plus.google.com/_/scs/apps-static/_/js/k=oz.recentposts.zh_CN.8Yf_tNWv0oA.O/m=rp_b/am=UAAB/rt=j/d=1/rs=AItRSTOzrcZqEfquotcHw_degcRhEScYeg HTTP/1.1" 200 97213
+INFO - [Jul  1 21:49:44] 127.0.0.1:36048 "GAE GET https://www.gstatic.com/og/_/js/d=1/k=og.og.en_US.AAYlAY5Iy64.O/rt=j/m=gu/rs=AItRSTMwL5r9rRxG8lb9DJ3N8cmpXCY9iA HTTP/1.1" 200 22753
+INFO - [Jul  1 21:49:44] 127.0.0.1:36058 "AGENT CONNECT www.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:44] 127.0.0.1:36054 "GAE GET https://plus.google.com/u/0/_/notifications/frame?sourceid=23&hl=zh-CN&origin=https%3A%2F%2Fmail.google.com&uc=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 8733
+INFO - [Jul  1 21:49:44] 127.0.0.1:36061 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:45] 127.0.0.1:36058 "GAE GET https://www.gstatic.com/og/_/ss/k=og.og.-xvpn6hvsxolr.L.W.O/m=guc/rs=AItRSTOFPs388EkcdIiFgFPhLcFX7edoRw HTTP/1.1" 200 4343
+INFO - [Jul  1 21:49:46] 127.0.0.1:36061 "GAE GET https://plus.google.com/_/scs/apps-static/_/ss/k=oz.sbw_bss.-1bxxzpql7n3fp.L.W.O/am=AQ/rs=AItRSTNHNU_R7wqGHQFq2xrixXY_HdDWJQ HTTP/1.1" 200 8906
+INFO - [Jul  1 21:49:58] 127.0.0.1:36065 "AGENT CONNECT csi.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:59] 127.0.0.1:36065 "GAE GET https://csi.gstatic.com/csi?v=3&s=oz&action=rpw&it=wtsrt_.1206,tbsd_.1460,tbnd_.0&srt=2666&tran=15&rt=es.709,ec.728,idp.764,fll.3765 HTTP/1.1" 204 0
+INFO - [Jul  1 21:49:59] 127.0.0.1:36068 "FWD CONNECT talkgadget.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:59] 127.0.0.1:36071 "FWD CONNECT talkgadget.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:49:59] 127.0.0.1:36074 "FWD CONNECT talkgadget.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:03] 127.0.0.1:36053 "GAE GET https://apis.google.com/js/plusone.js HTTP/1.1" 200 11561
+INFO - [Jul  1 21:50:12] 127.0.0.1:36083 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:12] 127.0.0.1:36084 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:12] 127.0.0.1:36085 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:16] 127.0.0.1:36085 "GAE GET https://plus.google.com/hangouts/_/hscv?pvt=AMP3uWac9kxkMLS_m73DX2tFQrZ7RSLb7cA-poh5S-4JdObqJ_L-Deehcn77OnyOHCzmQYZcl4eEcIxXqJsY-vwNH_151pXQ_A%3D%3D&xpc=%7B%22cn%22%3A%22eBrxQOJiPA%22%2C%22tp%22%3Anull%2C%22osh%22%3Anull%2C%22ppu%22%3A%22https%3A%2F%2Ftalkgadget.google.com%2Frobots.txt%22%2C%22lpu%22%3A%22https%3A%2F%2Fplus.google.com%2Frobots.txt%22%7D HTTP/1.1" 200 20734
+INFO - [Jul  1 21:50:17] 127.0.0.1:36088 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:17] 127.0.0.1:36091 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:18] 127.0.0.1:36088 "GAE GET https://plus.google.com/_/scs/talk-static/_/js/k=wcs.hangout.zh_CN.a43FAsy7ZUo.O/m=ah/am=___3______________9_____P_z____f___HLuc3PGaQen96_ve80e5_rfy___5-pkj23v7_Pxv7Iw/rt=j/d=1/rs=AItRSTP_-UKvztM6thzlA5eooXsbIlejIw HTTP/1.1" 200 553820
+INFO - [Jul  1 21:50:19] 127.0.0.1:36091 "GAE GET https://plus.google.com/hangouts/_/pre?hl=zh-CN&authuser=0 HTTP/1.1" 200 1219
+INFO - [Jul  1 21:50:23] 127.0.0.1:36083 "GAE GET https://apis.google.com/js/client.js?onload=_GC_onApiReady HTTP/1.1" 200 3973
+INFO - [Jul  1 21:50:24] 127.0.0.1:36097 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:24] autorange range='bytes=0-1048575' match url='https://ssl.gstatic.com/chat/sounds/incoming_video_long_e5df1b5146e9cbdba78af43d60005200.mp3'
+INFO - [Jul  1 21:50:24] 127.0.0.1:36100 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:24] 127.0.0.1:36101 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:24] autorange range='bytes=0-1048575' match url='https://ssl.gstatic.com/chat/sounds/incoming_message_eb39ce414e3ffba41a8e173581dc7248.mp3'
+INFO - [Jul  1 21:50:24] autorange range='bytes=0-1048575' match url='https://ssl.gstatic.com/chat/sounds/incoming_video_short_5abdd7c1c7fa8bbd5d6b4733de315c59.mp3'
+INFO - [Jul  1 21:50:25] 127.0.0.1:36097 "GAE GET https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.zh_CN.NCl3aH13Vn8.O/m=client/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ/cb=gapi.loaded_0 HTTP/1.1" 200 39135
+INFO - [Jul  1 21:50:25] 127.0.0.1:36108 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:25] 127.0.0.1:36084 "GAE GET https://ssl.gstatic.com/chat/sounds/incoming_video_long_e5df1b5146e9cbdba78af43d60005200.mp3 HTTP/1.1" 304 0
+INFO - [Jul  1 21:50:25] 127.0.0.1:36100 "GAE GET https://ssl.gstatic.com/chat/sounds/incoming_message_eb39ce414e3ffba41a8e173581dc7248.mp3 HTTP/1.1" 304 0
+INFO - [Jul  1 21:50:25] 127.0.0.1:36101 "GAE GET https://ssl.gstatic.com/chat/sounds/incoming_video_short_5abdd7c1c7fa8bbd5d6b4733de315c59.mp3 HTTP/1.1" 304 0
+INFO - [Jul  1 21:50:26] 127.0.0.1:36111 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:27] 127.0.0.1:36111 "GAE GET https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.zh_CN.NCl3aH13Vn8.O/m=googleapis_proxy/am=EQ/rt=j/d=1/rs=AItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ HTTP/1.1" 200 15225
+INFO - [Jul  1 21:50:28] 127.0.0.1:36114 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:50:29] 127.0.0.1:36114 "GAE GET https://ssl.gstatic.com/chat/babble/sprites/common-f972197db819671c67a269768529fe6f.png HTTP/1.1" 200 35524
+INFO - [Jul  1 21:51:39] 127.0.0.1:36128 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:51:58] 127.0.0.1:36131 "FWD CONNECT www.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:02] 127.0.0.1:36134 "GAE GET http://google.com/reader HTTP/1.1" 301 178
+INFO - [Jul  1 21:52:03] 127.0.0.1:36142 "FWD GET http://www.google.com/reader HTTP/1.1" 200 1849
+INFO - [Jul  1 21:52:04] 127.0.0.1:36145 "FWD GET http://www.google.com/favicon.ico HTTP/1.1" 200 982
+INFO - [Jul  1 21:52:11] 127.0.0.1:36150 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:11] 127.0.0.1:36149 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:12] 127.0.0.1:36156 "AGENT CONNECT accounts.youtube.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:12] 127.0.0.1:36157 "AGENT CONNECT accounts.youtube.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:12] 127.0.0.1:36158 "AGENT CONNECT accounts.youtube.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:12] 127.0.0.1:36159 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:12] 127.0.0.1:36160 "FWD CONNECT accounts.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:14] 127.0.0.1:36165 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:16] 127.0.0.1:36158 "GAE GET https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-151405537&timestamp=1372686735166 HTTP/1.1" 200 1294
+INFO - [Jul  1 21:52:28] 127.0.0.1:36170 "FWD CONNECT accounts.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:30] 127.0.0.1:36157 "GAE GET https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cs18ZvpzooFE8GIQqiQD69Ro7QboSx3TxWeBCV2kpozzXeYE5hqDiRM0DlLAMDNN29vr63ca31a3uejnfqezYb6XC7OkKNGtRguzjwRsTXVCskSORu1Yf7JIqPs8lcSyGXcZ29y%2B90gd5OKb5RyWQvUk3%2FWqmPwGncsUNod9FBThNlYAvQPiudK2KJcVQIbNgoFHGwmlxZ2BgsfcWzGyJhWuIm%2FanjSwhFTdVfNivLVpiI2yHft2lK1%2BJjjRc6GIuxj7ylPEZPJWqGicIT0YqAo%2F8YpCaDNnqce298aNVi0WRIaFurBGslEjsrs0nPxnfVZ2IDvYuu3lV6V1%2FTx9geuUJUe06G7n39nGboz94EOc8HqjLQ%2BaV0GqPzzGT3C2mYIiyMisWXNtJGnYqSXuFSfMIfyYA%3D%3D&pmpo=https%3A%2F%2Faccounts.google.com HTTP/1.1" 200 1186
+INFO - [Jul  1 21:52:33] 127.0.0.1:36177 "FWD CONNECT s2.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:36] 127.0.0.1:36181 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:37] 127.0.0.1:36149 "GAE GET https://ssl.gstatic.com/ui/v1/menu/checkmark.png HTTP/1.1" 200 239
+INFO - [Jul  1 21:52:37] 127.0.0.1:36181 "GAE GET https://ssl.gstatic.com/ui/v1/dialog/close-x.png HTTP/1.1" 200 291
+INFO - [Jul  1 21:52:38] 127.0.0.1:36184 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:40] 127.0.0.1:36184 "GAE GET https://ssl.gstatic.com/images/icons/gplus-16.png HTTP/1.1" 200 492
+INFO - [Jul  1 21:52:40] 127.0.0.1:36187 "FWD GET http://support.google.com/reader/bin/answer.py?answer=3028851 HTTP/1.1" 301 245
+INFO - [Jul  1 21:52:40] 127.0.0.1:36192 "FWD CONNECT support.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:40] 127.0.0.1:36193 "FWD CONNECT support.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:41] GAEProxyHandler.do_METHOD_GAE url='https://ssl.gstatic.com/images/icons/gplus-16.png' return SSLError(1, '_ssl.c:1237: error:1409F07F:SSL routines:SSL3_WRITE_PENDING:bad write retry'), abort.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 582, in process_request_thread
+    self.finish_request(request, client_address)
+  File "../google_appengine/goagent/local/proxy.py", line 1371, in finish_request
+  File "/usr/lib/python2.7/SocketServer.py", line 323, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 639, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 343, in handle
+    self.handle_one_request()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 332, in handle_one_request
+    self.wfile.flush() #actually send the response if not already done.
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+  File "/usr/lib/python2.7/ssl.py", line 220, in sendall
+    v = self.send(data[count:])
+  File "/usr/lib/python2.7/ssl.py", line 189, in send
+    v = self._sslobj.write(data)
+SSLError: [Errno 1] _ssl.c:1237: error:1409F07F:SSL routines:SSL3_WRITE_PENDING:bad write retry
+INFO - [Jul  1 21:52:41] 127.0.0.1:36198 "AGENT CONNECT www.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:41] 127.0.0.1:36201 "AGENT CONNECT www.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:42] 127.0.0.1:36198 "GAE GET https://www.gstatic.com/support/content/20130626-210301-4502/css/v1/hc-all.css HTTP/1.1" 200 51433
+INFO - [Jul  1 21:52:43] 127.0.0.1:36201 "GAE GET https://www.gstatic.com/support/content/20130626-210301-4502/js/hc-all.js HTTP/1.1" 200 130750
+INFO - [Jul  1 21:52:43] 127.0.0.1:36204 "FWD CONNECT lh4.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:43] 127.0.0.1:36207 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:44] 127.0.0.1:36210 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:44] 127.0.0.1:36207 "GAE GET https://ssl.gstatic.com/ui/v1/button/search-white.png HTTP/1.1" 200 275
+INFO - [Jul  1 21:52:45] 127.0.0.1:36210 "GAE GET https://ssl.gstatic.com/ui/v1/disclosure/grey-disclosure-arrow-up-down.png HTTP/1.1" 200 115
+INFO - [Jul  1 21:52:45] 127.0.0.1:36213 "FWD CONNECT clients1.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:46] 127.0.0.1:36216 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:47] 127.0.0.1:36216 "GAE GET https://ssl.gstatic.com/gb/js/smm_6a1b40f12839139374bd1c835fc6b436.js HTTP/1.1" 200 34938
+INFO - [Jul  1 21:52:49] GAEProxyHandler.do_METHOD_GAE url='https://ssl.gstatic.com/gb/js/smm_6a1b40f12839139374bd1c835fc6b436.js' return SSLError(1, '_ssl.c:1237: error:1409F07F:SSL routines:SSL3_WRITE_PENDING:bad write retry'), abort.
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 582, in process_request_thread
+    self.finish_request(request, client_address)
+  File "../google_appengine/goagent/local/proxy.py", line 1371, in finish_request
+  File "/usr/lib/python2.7/SocketServer.py", line 323, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 639, in __init__
+    self.handle()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 343, in handle
+    self.handle_one_request()
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 332, in handle_one_request
+    self.wfile.flush() #actually send the response if not already done.
+  File "/usr/lib/python2.7/socket.py", line 303, in flush
+    self._sock.sendall(view[write_offset:write_offset+buffer_size])
+  File "/usr/lib/python2.7/ssl.py", line 220, in sendall
+    v = self.send(data[count:])
+  File "/usr/lib/python2.7/ssl.py", line 189, in send
+    v = self._sslobj.write(data)
+SSLError: [Errno 1] _ssl.c:1237: error:1409F07F:SSL routines:SSL3_WRITE_PENDING:bad write retry
+INFO - [Jul  1 21:52:52] 127.0.0.1:36221 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:52:53] 127.0.0.1:36221 "GAE GET https://ssl.gstatic.com/takeout/75587D4509EBD3B5421AB9C0D91CC1E1.cache.js HTTP/1.1" 200 305954
+INFO - [Jul  1 21:52:59] 127.0.0.1:36224 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:53:00] 127.0.0.1:36227 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:53:00] 127.0.0.1:36224 "GAE GET https://ssl.gstatic.com/gb/js/smm_6a1b40f12839139374bd1c835fc6b436.js HTTP/1.1" 200 34938
+INFO - [Jul  1 21:53:01] 127.0.0.1:36230 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:53:01] 127.0.0.1:36233 "AGENT CONNECT plusone.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:53:01] 127.0.0.1:36227 "GAE GET https://ssl.gstatic.com/takeout/clear.cache.gif HTTP/1.1" 200 43
+INFO - [Jul  1 21:53:02] 127.0.0.1:36233 "GAE GET https://plusone.google.com/u/0/_/+1/fastbutton?hl=zh-CN&origin=https%3A%2F%2Fwww.google.com&url=https%3A%2F%2Fwww.google.com%2Ftakeout%2F&gsrc=1p&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 7071
+INFO - [Jul  1 21:53:02] 127.0.0.1:36230 "GAE POST https://plus.google.com/u/0/_/n/gcosuc?origin=https%3A%2F%2Fwww.google.com HTTP/1.1" 200 31
+INFO - [Jul  1 21:53:03] 127.0.0.1:36236 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:53:04] 127.0.0.1:36236 "GAE GET https://plus.google.com/u/0/_/notifications/frame?sourceid=195&hl=zh-CN&origin=https%3A%2F%2Fwww.google.com&uc=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 8727
+INFO - [Jul  1 21:53:41] 127.0.0.1:36243 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:54:46] 127.0.0.1:36248 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:54:46] 127.0.0.1:36249 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:54:47] 127.0.0.1:36249 "GAE GET https://plus.google.com/_/scs/apps-static/_/ss/k=oz.sbw_dss.e2jmzjrgvi14.L.W.O/am=ABzAwQUgQCA/rs=AItRSTOiStjjhbGxUteASqBw-XBqQkk0vg HTTP/1.1" 200 41339
+INFO - [Jul  1 21:54:48] 127.0.0.1:36248 "GAE GET https://plus.google.com/_/scs/apps-static/_/js/k=oz.sbw.zh_CN.q6Peaj-mh-s.O/m=sbw_base,sbw_card,sbw_s/am=ABzAwQUgQCA/rt=j/d=1/rs=AItRSTNC_cKZd7bCKPwjHZchm4AB4uAUXA HTTP/1.1" 200 405628
+INFO - [Jul  1 21:54:57] 127.0.0.1:36254 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:54:57] 127.0.0.1:36257 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:54:58] 127.0.0.1:36257 "GAE GET https://plus.google.com/_/scs/apps-static/_/js/k=oz.sbw.zh_CN.q6Peaj-mh-s.O/m=sy54,sy62,sy64,sy105,sy53,sy102,sy106,hc/am=ABzAwQUgQCA/rt=j/rs=AItRSTNC_cKZd7bCKPwjHZchm4AB4uAUXA HTTP/1.1" 200 22065
+INFO - [Jul  1 21:54:58] 127.0.0.1:36254 "GAE POST https://plus.google.com/u/0/_/initialdata?ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=78897&rt=j HTTP/1.1" 200 612
+INFO - [Jul  1 21:54:59] 127.0.0.1:36260 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:54:59] 127.0.0.1:36261 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:55:00] 127.0.0.1:36261 "GAE GET https://plus.google.com/_/scs/apps-static/_/js/k=oz.sbw.zh_CN.q6Peaj-mh-s.O/m=sy174,sy173,sy165,sy192,sy176,sy52,sy167,sy177,sy137,sy151,sy184,sy180,sy85,sy164,sy172,sy146,sy158,sy86,sy186,sy148,sy149,sy80,sy197,sy208,sy210,sy150,sy126,em3,em5,em6,em7,em8,em9,em10,em11,em12,em13,em14,em15,em16,em17,sy231,sbw_gll/am=ABzAwQUgQCA/rt=j/rs=AItRSTNC_cKZd7bCKPwjHZchm4AB4uAUXA HTTP/1.1" 200 78860
+INFO - [Jul  1 21:55:01] 127.0.0.1:36260 "GAE POST https://plus.google.com/u/0/_/socialgraph/lookup/circles/?ct=2&m=true&_reqid=178897&rt=j HTTP/1.1" 200 15721
+INFO - [Jul  1 21:55:02] 127.0.0.1:36266 "AGENT CONNECT csi.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:55:04] 127.0.0.1:36266 "GAE GET https://csi.gstatic.com/csi?v=3&s=oz&action=&srt=1623&tran=15&rt=wjsr.310817 HTTP/1.1" 204 0
+INFO - [Jul  1 21:55:07] 127.0.0.1:36270 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:55:08] 127.0.0.1:36270 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=320.894&ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=278897&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 21:55:10] 127.0.0.1:36273 "AGENT CONNECT csi.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:55:11] 127.0.0.1:36273 "GAE GET https://csi.gstatic.com/csi?v=3&s=oz&action=notificationswidget&it=wtsrt_.1437,tbsd_.186,tbnd_.0,redirectTime.0,dnsTime.0,tcpTime.94,requestStart.164,requestTime.1424,navSrt.1437&srt=1623&tran=15&e=102,100,71,96,97,110,79,105,45,17,86,81,112,61,30&rt=hl.1,bl.1753,jl.1779,es.312567,ec.312599,idp.312641,fll.315642 HTTP/1.1" 204 0
+INFO - [Jul  1 21:55:43] 127.0.0.1:36277 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:55:53] 127.0.0.1:36280 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:55:54] 127.0.0.1:36280 "GAE POST https://plus.google.com/u/0/_/diagnostics/?ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=378897&rt=j HTTP/1.1" 200 78
+INFO - [Jul  1 21:56:28] 127.0.0.1:36287 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:58:04] 127.0.0.1:36293 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:58:06] 127.0.0.1:36293 "GAE POST https://plus.google.com/u/0/_/initialdata?ozv=es_oz_20130627.13_p5&f.sid=1098658329&_reqid=79084&rt=j HTTP/1.1" 200 613
+INFO - [Jul  1 21:58:09] 127.0.0.1:36297 "AGENT CONNECT csi.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:58:11] 127.0.0.1:36297 "GAE GET https://csi.gstatic.com/csi?v=3&s=oz&action=&srt=1358&tran=15&rt=wjsr.300415 HTTP/1.1" 204 0
+INFO - [Jul  1 21:58:15] 127.0.0.1:36300 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:58:16] 127.0.0.1:36300 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=310.546&ozv=es_oz_20130627.13_p5&f.sid=1098658329&_reqid=179084&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 21:58:17] 127.0.0.1:36303 "AGENT CONNECT csi.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 21:58:19] 127.0.0.1:36303 "GAE GET https://csi.gstatic.com/csi?v=3&s=oz&action=notificationswidget&it=wtsrt_.1161,tbsd_.197,tbnd_.0,redirectTime.0,dnsTime.0,tcpTime.61,requestStart.90,requestTime.1226,navSrt.1161&srt=1358&tran=15&e=102,100,71,96,97,110,79,105,45,17,86,81,112,61,30&rt=hl.0,bl.74,jl.122,es.300558,ec.300581,idp.300624,fll.303626 HTTP/1.1" 204 0
+INFO - [Jul  1 21:58:45] 127.0.0.1:36307 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:00:08] 127.0.0.1:36317 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:00:10] 127.0.0.1:36317 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=622.253&ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=478897&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:00:28] 127.0.0.1:36320 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:01:48] 127.0.0.1:36328 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:02:28] 127.0.0.1:36337 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:03:16] 127.0.0.1:36342 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:03:17] 127.0.0.1:36342 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=611.691&ozv=es_oz_20130627.13_p5&f.sid=1098658329&_reqid=279084&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:05:03] 127.0.0.1:36353 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:05:10] 127.0.0.1:36357 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:05:11] 127.0.0.1:36357 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=923.425&ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=578897&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:06:50] 127.0.0.1:36363 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:08:17] 127.0.0.1:36371 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:08:18] 127.0.0.1:36371 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=912.848&ozv=es_oz_20130627.13_p5&f.sid=1098658329&_reqid=379084&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:08:28] 127.0.0.1:36374 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:08:46] 127.0.0.1:36378 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:08:48] 127.0.0.1:36381 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372687726539&ust=1372687757088558&usg=AFQjCNGctOuKrOnPG8wCoBC8K4d5Qvkxdg HTTP/1.1" 302 193
+INFO - [Jul  1 22:08:52] 127.0.0.1:36385 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372687726539&ust=1372687760999346&usg=AFQjCNGNYw0dU2whksSgcVp5Wy1xUg5ZhQ HTTP/1.1" 302 193
+INFO - [Jul  1 22:08:58] 127.0.0.1:36386 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372687726539&ust=1372687767325651&usg=AFQjCNEznXIwWm0f-I5tmL8agv_DJaroUg HTTP/1.1" 302 193
+INFO - [Jul  1 22:10:11] 127.0.0.1:36396 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:10:12] 127.0.0.1:36396 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=1225.029&ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=678897&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:10:28] 127.0.0.1:36399 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:11:55] 127.0.0.1:36411 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:12:59] 127.0.0.1:36416 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:00] 127.0.0.1:36416 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=1195.195&ozv=es_oz_20130627.13_p5&f.sid=1098658329&_reqid=479084&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:13:26] 127.0.0.1:36424 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:26] 127.0.0.1:36427 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:26] 127.0.0.1:36430 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:27] 127.0.0.1:36430 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=1419.947&ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=778897&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:13:31] 127.0.0.1:36433 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36437 "FWD CONNECT support.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36438 "FWD CONNECT clients1.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36439 "FWD CONNECT lh4.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36440 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36441 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36442 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:38] 127.0.0.1:36443 "AGENT CONNECT www.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:40] 127.0.0.1:36454 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:40] 127.0.0.1:36455 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:41] 127.0.0.1:36454 "GAE GET https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.aBqw11eoBzM.O/m=client,plusone/rt=j/sv=1/d=1/ed=1/am=EA/rs=AItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA/cb=gapi.loaded_0 HTTP/1.1" 200 52797
+INFO - [Jul  1 22:13:42] 127.0.0.1:36455 "GAE POST https://plus.google.com/u/0/_/n/gcosuc?origin=https%3A%2F%2Fsupport.google.com HTTP/1.1" 200 31
+INFO - [Jul  1 22:13:42] 127.0.0.1:36460 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:42] 127.0.0.1:36463 "AGENT CONNECT plusone.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:43] 127.0.0.1:36460 "GAE GET https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.aBqw11eoBzM.O/m=googleapis_client/exm=client,plusone/rt=j/sv=1/d=1/ed=1/am=EA/rs=AItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA/cb=gapi.loaded_1 HTTP/1.1" 200 94
+INFO - [Jul  1 22:13:43] 127.0.0.1:36466 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:13:43] 127.0.0.1:36463 "GAE GET https://plusone.google.com/_/+1/fastbutton?annotation=bubble&size=small&source=google%3AHELP&width=224px&hl=zh-Hans&origin=https%3A%2F%2Fsupport.google.com&url=https%3A%2F%2Fsupport.google.com%2Freader%2Fanswer%2F3028851%3Fhl%3Dzh-CN&gsrc=1p&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 7121
+INFO - [Jul  1 22:13:44] 127.0.0.1:36466 "GAE GET https://plus.google.com/u/0/_/notifications/frame?sourceid=117&hl=zh-CN&origin=https%3A%2F%2Fsupport.google.com&uc=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 8728
+INFO - [Jul  1 22:13:50] 127.0.0.1:36469 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:08] 127.0.0.1:36474 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:08] 127.0.0.1:36475 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:08] 127.0.0.1:36476 "AGENT CONNECT plusone.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:12] 127.0.0.1:36475 "GAE POST https://plus.google.com/u/0/_/n/gcosuc?origin=https%3A%2F%2Fsupport.google.com HTTP/1.1" 200 31
+INFO - [Jul  1 22:14:12] 127.0.0.1:36479 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:13] 127.0.0.1:36479 "GAE GET https://plus.google.com/u/0/_/notifications/frame?sourceid=117&hl=zh-CN&origin=https%3A%2F%2Fsupport.google.com&uc=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 8726
+INFO - [Jul  1 22:14:21] 127.0.0.1:36482 "AGENT CONNECT google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:21] 127.0.0.1:36483 "AGENT CONNECT google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:23] 127.0.0.1:36483 "GAE GET https://google.com/reader/ HTTP/1.1" 404 557
+INFO - [Jul  1 22:14:25] 127.0.0.1:36482 "GAE GET https://google.com/favicon.ico HTTP/1.1" 200 964
+INFO - [Jul  1 22:14:37] 127.0.0.1:36490 "AGENT CONNECT google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:37] 127.0.0.1:36491 "AGENT CONNECT google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 22:14:38] 127.0.0.1:36491 "GAE GET https://google.com.hk/reader/ HTTP/1.1" 404 557
+INFO - [Jul  1 22:14:40] 127.0.0.1:36490 "GAE GET https://google.com.hk/favicon.ico HTTP/1.1" 200 964
+INFO - [Jul  1 22:16:56] 127.0.0.1:36506 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:19:14] 127.0.0.1:36514 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:20:28] 127.0.0.1:36521 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:20:28] 127.0.0.1:36524 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:22:17] 127.0.0.1:36531 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:25:19] 127.0.0.1:36545 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:26:29] 127.0.0.1:36551 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:28:34] 127.0.0.1:36564 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:28:34] 127.0.0.1:36567 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:30:21] 127.0.0.1:36573 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:30:29] 127.0.0.1:36576 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:32:29] 127.0.0.1:36587 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:35:34] 127.0.0.1:36600 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:17] 127.0.0.1:36608 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:17] 127.0.0.1:36611 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:17] 127.0.0.1:36612 "FWD CONNECT clients6.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:18] 127.0.0.1:36617 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:19] 127.0.0.1:36608 "GAE POST https://plus.google.com/u/0/_/n/fetchcount?u=2851.132&ozv=es_oz_20130627.13_p5&f.sid=1264502332&_reqid=878897&rt=j HTTP/1.1" 200 112
+INFO - [Jul  1 22:37:19] 127.0.0.1:36617 "GAE GET https://apis.google.com/u/0/_/streamwidgets/hovercard?origin=https%3A%2F%2Fmail.google.com&hl=zh-CN&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.gapi.en.aBqw11eoBzM.O%2Fm%3D__features__%2Fam%3DEA%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 4063
+INFO - [Jul  1 22:37:19] 127.0.0.1:36620 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:19] 127.0.0.1:36623 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:19] 127.0.0.1:36624 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:20] 127.0.0.1:36620 "GAE GET https://apis.google.com/_/scs/apps-static/_/ss/k=oz.hovercard_controller.dgbqlyk5bmsx.L.W.O/am=UCA/rs=AItRSTPPwSxtSHYuiOli_tI6HfYGn55vRQ HTTP/1.1" 200 7177
+INFO - [Jul  1 22:37:20] 127.0.0.1:36629 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:20] 127.0.0.1:36632 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:20] 127.0.0.1:36624 "GAE GET https://apis.google.com/_/scs/apps-static/_/js/k=oz.hovercard_controller.zh_CN.Xbn5gP4IWyE.O/m=controller,com/am=UCA/rt=j/d=1/rs=AItRSTOBY1N4D87xR7JLMPpXSiof2JJHvA HTTP/1.1" 200 88037
+INFO - [Jul  1 22:37:20] 127.0.0.1:36623 "GAE GET https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.aBqw11eoBzM.O/m=iframes_styles_bubble_internal/am=EA/rt=j/d=1/rs=AItRSTMkiisOVRW5P7l3Ig59NtxV0JdMMA HTTP/1.1" 200 32098
+INFO - [Jul  1 22:37:20] 127.0.0.1:36635 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:20] 127.0.0.1:36638 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:20] 127.0.0.1:36641 "FWD CONNECT mail.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:21] 127.0.0.1:36644 "AGENT CONNECT ssl.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:21] 127.0.0.1:36647 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:22] 127.0.0.1:36644 "GAE GET https://ssl.gstatic.com/mail/sprites/general-30fc638f4d5b6d7bda05db5d4f4ab4ed.png HTTP/1.1" 200 3172
+INFO - [Jul  1 22:37:22] 127.0.0.1:36650 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:22] 127.0.0.1:36647 "GAE GET https://plus.google.com/u/0/_/streamwidgets/canvas HTTP/1.1" 200 120
+INFO - [Jul  1 22:37:23] 127.0.0.1:36650 "GAE POST https://plus.google.com/u/0/_/streamwidgets/getactivities/?ozv=es_oz_20130627.13_p5&f.sid=2136873267888127&_reqid=81442&rt=j HTTP/1.1" 200 205
+INFO - [Jul  1 22:37:31] 127.0.0.1:36653 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:35] 127.0.0.1:36658 "AGENT CONNECT csi.gstatic.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:36] 127.0.0.1:36658 "GAE GET https://csi.gstatic.com/csi?v=3&s=oz&action=null&it=wtsrt_.1237,tbsd_.1814,tbnd_.0&srt=3051&tran=15&rt=es.667,ec.700,idp.733,fll.3734 HTTP/1.1" 204 0
+INFO - [Jul  1 22:37:37] 127.0.0.1:36700 "AGENT CONNECT plus.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:37:38] 127.0.0.1:36700 "GAE GET https://plus.google.com/u/0/_/diagnostics/?diagnostics=%5B%5B%5B%5Bnull%2C%5B1316477283%2Cnull%2C%5B%5D%2C0%2C%5B%22streamwidgets%22%2C28%5D%2C%5B%22streamwidgets%22%2C1%5D%2Cnull%2C%5B%5D%2Ctrue%2C1372689443529%2C0%2C0%2C1%2C%5B%5D%2Cnull%2C%5B%5D%2Cnull%2C%5B102%2C100%2C71%2C96%2C97%2C110%2C79%2C105%2C45%2C17%2C86%2C81%2C112%2C61%2C30%5D%2Cnull%2C%5B793000000%2C167000000%2C139000000%5D%2C%228Yf_tNWv0oA.zh_CN.%22%5D%5D%5D%5D%5D HTTP/1.1" 200 38
+INFO - [Jul  1 22:38:46] 127.0.0.1:36771 "FWD CONNECT www.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:38:48] 127.0.0.1:36774 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372689526540&ust=1372689557044818&usg=AFQjCNEqw5n4aKVQ-AyVAnnU7GthXcf3wA HTTP/1.1" 302 196
+INFO - [Jul  1 22:38:52] 127.0.0.1:36778 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372689526540&ust=1372689561148980&usg=AFQjCNHpukkgO69GDHzM3i736gue-RaKgg HTTP/1.1" 302 196
+INFO - [Jul  1 22:38:58] 127.0.0.1:36779 "GAE GET http://www.google.com.hk/url?sa=p&hl=zh-CN&pref=hkredirect&pval=yes&q=http://www.google.com.hk/%3Fck%3D1372689526540&ust=1372689567508988&usg=AFQjCNHf2uuVCSEfQUUFg3XvapCdtzR9Fw HTTP/1.1" 302 196
+INFO - [Jul  1 22:41:35] 127.0.0.1:36859 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:41:42] 127.0.0.1:36869 "FWD GET http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js HTTP/1.1" 200 33102
+INFO - [Jul  1 22:41:42] 127.0.0.1:36873 "FWD GET http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700|Roboto+Slab:400,700 HTTP/1.1" 200 382
+INFO - [Jul  1 22:41:43] 127.0.0.1:36878 "FWD GET http://themes.googleusercontent.com/static/fonts/robotoslab/v1/y7lebkjgREBJK96VQi37ZobN6UDyHWBl620a-IRfuBk.woff HTTP/1.1" 200 26060
+INFO - [Jul  1 22:41:43] 127.0.0.1:36884 "FWD GET http://themes.googleusercontent.com/static/fonts/ubuntumono/v3/ceqTZGKHipo8pJj4molytjqR_3kx9_hJXbbyU8S6IN0.woff HTTP/1.1" 200 25828
+INFO - [Jul  1 22:41:46] 127.0.0.1:36887 "FWD GET http://www.google-analytics.com/__utm.gif?utmwv=5.4.3&utms=1&utmn=1134514284&utmhn=learnxinyminutes.com&utmcs=UTF-8&utmsr=1280x800&utmvp=1265x688&utmsc=24-bit&utmul=zh-cn&utmje=1&utmfl=11.2%20r202&utmdt=Learn%20haskell%20in%20Y%20Minutes&utmhid=800698854&utmr=http%3A%2F%2Fweibo.com%2Fu%2F2108122142%3Fwvr%3D5%26topnav%3D1%26wvr%3D5%26mod%3Dlogo&utmp=%2Fdocs%2Fhaskell%2F&utmht=1372689703372&utmac=UA-3525624-21&utmcc=__utma%3D167758755.1991536615.1372689703.1372689703.1372689703.1%3B%2B__utmz%3D167758755.1372689703.1.1.utmcsr%3Dweibo.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2Fu%2F2108122142%3B&utmu=q~ HTTP/1.1" 200 35
+INFO - [Jul  1 22:41:46] 127.0.0.1:36881 "FWD GET http://themes.googleusercontent.com/static/fonts/robotoslab/v1/dazS1PrQQuCxC3iOAJFEJTqR_3kx9_hJXbbyU8S6IN0.woff HTTP/1.1" 200 26180
+INFO - [Jul  1 22:42:13] 127.0.0.1:36896 "FWD CONNECT www.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:13] 127.0.0.1:36899 "FWD CONNECT www.google.com.hk:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36904 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36905 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36906 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36907 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36908 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36909 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36910 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36911 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36912 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36913 "FWD CONNECT ssl.google-analytics.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:14] 127.0.0.1:36919 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:16] 127.0.0.1:36919 "GAE GET https://twitter.com/ HTTP/1.1" 200 24150
+INFO - [Jul  1 22:42:18] 127.0.0.1:36909 "GAE GET https://abs.twimg.com/a/1372435402/t1/css/t1_core.bundle.css HTTP/1.1" 200 33303
+INFO - [Jul  1 22:42:18] 127.0.0.1:36907 "GAE GET https://abs.twimg.com/c/swift/zh-cn/init.660164cf82181fafbb1bead3adf9dd6de2b33d8c.js HTTP/1.1" 200 87092
+INFO - [Jul  1 22:42:19] 127.0.0.1:36932 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:20] 127.0.0.1:36911 "GAE GET https://si0.twimg.com/profile_images/378800000072384419/182cbd3d6332c12ae4fc4fdc36055766_normal.png HTTP/1.1" 200 3296
+INFO - [Jul  1 22:42:20] 127.0.0.1:36910 "GAE GET https://si0.twimg.com/profile_images/3756796588/5fa4fdf087b04379b16e2d181c6ff8c7_normal.png HTTP/1.1" 200 2958
+INFO - [Jul  1 22:42:20] 127.0.0.1:36943 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:20] 127.0.0.1:36912 "GAE GET https://si0.twimg.com/profile_images/2237830653/logo_twitter_normal.png HTTP/1.1" 200 2036
+INFO - [Jul  1 22:42:21] 127.0.0.1:36904 "GAE GET https://abs.twimg.com/a/1372435402/t1/img/twitter_web_sprite_icons.png HTTP/1.1" 200 75577
+INFO - [Jul  1 22:42:21] 127.0.0.1:36905 "GAE GET https://abs.twimg.com/a/1372435402/t1/img/loader.gif HTTP/1.1" 200 4178
+INFO - [Jul  1 22:42:21] 127.0.0.1:36906 "GAE GET https://abs.twimg.com/a/1372435402/t1/img/wash-white-30.png HTTP/1.1" 200 940
+INFO - [Jul  1 22:42:21] 127.0.0.1:36932 "GAE GET https://si0.twimg.com/profile_images/1593708562/Avatar-200x200_normal.png HTTP/1.1" 200 840
+INFO - [Jul  1 22:42:21] 127.0.0.1:36908 "GAE GET https://abs.twimg.com/a/1372435402/t1/img/twitter_web_sprite_bgs.png HTTP/1.1" 200 6602
+INFO - [Jul  1 22:42:21] 127.0.0.1:36943 "GAE GET https://abs.twimg.com/c/swift/zh-cn/bundle/timeline.1efe84e277e3d1fbb80467763d239975ee416e15.js HTTP/1.1" 200 83545
+INFO - [Jul  1 22:42:22] 127.0.0.1:36946 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:22] 127.0.0.1:36949 "AGENT CONNECT abs.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:22] 127.0.0.1:36952 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:22] 127.0.0.1:36953 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:23] 127.0.0.1:36958 "AGENT CONNECT platform.twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:23] 127.0.0.1:36959 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:23] 127.0.0.1:36964 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:23] 127.0.0.1:36967 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:23] 127.0.0.1:36946 "GAE GET https://abs.twimg.com/favicons/favicon.ico HTTP/1.1" 304 0
+INFO - [Jul  1 22:42:23] 127.0.0.1:36970 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:23] 127.0.0.1:36949 "GAE GET https://abs.twimg.com/a/1372435402/t1/css/t1_more.bundle.css HTTP/1.1" 200 34782
+INFO - [Jul  1 22:42:24] 127.0.0.1:36952 "GAE GET https://twitter.com/i/search/typeahead.json?count=500&prefetch=true&result_type=topics&topics_cache_age=73 HTTP/1.1" 200 81
+INFO - [Jul  1 22:42:24] 127.0.0.1:36964 "GAE GET https://twitter.com/i/promoted_content/log.json?earned=false&event=impression&impression_id=4d5790f347718412 HTTP/1.1" 200 10
+INFO - [Jul  1 22:42:24] 127.0.0.1:36959 "GAE GET https://twitter.com/trends?k=3f1e9b3007&pc=true&src=module HTTP/1.1" 200 552
+INFO - [Jul  1 22:42:24] 127.0.0.1:36958 "GAE GET https://platform.twitter.com/widgets.js HTTP/1.1" 200 27016
+INFO - [Jul  1 22:42:24] 127.0.0.1:36970 "GAE GET https://twitter.com/i/resolve.json?urls%5B%5D=http%3A%2F%2Fbit.ly%2F17zePN7&urls%5B%5D=http%3A%2F%2Fow.ly%2FmxrFY&urls%5B%5D=http%3A%2F%2Fow.ly%2Fmxtk9&urls%5B%5D=http%3A%2F%2Fjustwriteclick.com%2F2013%2F07%2F01%2Fbook-sprint-for-openstack-security-guide%2F&urls%5B%5D=http%3A%2F%2Fbit.ly%2F17zd7Ly&urls%5B%5D=http%3A%2F%2Fbit.ly%2F13lpoEn&urls%5B%5D=http%3A%2F%2Fbit.ly%2F17zd9Df&urls%5B%5D=http%3A%2F%2Fbit.ly%2F17zd6HJ&urls%5B%5D=http%3A%2F%2Fbit.ly%2F13lpoE4&urls%5B%5D=http%3A%2F%2Fj.mp%2F17ODT6p&urls%5B%5D=http%3A%2F%2Fbit.ly%2F12yPBNy&urls%5B%5D=http%3A%2F%2Fcalcul.math.cnrs.fr%2Fspip.php%3Frubrique102&urls%5B%5D=http%3A%2F%2Fblog.gitcafe.com%2F175.html&urls%5B%5D=http%3A%2F%2Fbit.ly%2F19OkeEk&urls%5B%5D=http%3A%2F%2Fbit.ly%2F19OkeEe&urls%5B%5D=http%3A%2F%2Fbit.ly%2F17z23y2&urls%5B%5D=http%3A%2F%2Fbit.ly%2F17z259o HTTP/1.1" 200 627
+INFO - [Jul  1 22:42:24] 127.0.0.1:36967 "GAE GET https://twitter.com/i/users/recommendations?connections=true&disabled=false&dismissable=true&display_location=wtf-component&excluded=1288428218%2C321592078%2C112698192&initialResults=true&limit=3&pc=true&scribeContext%5Bcomponent%5D=user_recommendations HTTP/1.1" 200 1229
+INFO - [Jul  1 22:42:24] 127.0.0.1:36973 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:24] 127.0.0.1:36974 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:24] 127.0.0.1:36975 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:24] 127.0.0.1:36978 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:25] 127.0.0.1:36953 "GAE GET https://twitter.com/i/search/typeahead.json?count=1200&prefetch=true&result_type=users&users_cache_age=-1 HTTP/1.1" 200 115254
+INFO - [Jul  1 22:42:25] 127.0.0.1:36973 "GAE GET https://si0.twimg.com/profile_images/3667467134/8b5410854fa40de3473b5d878e41647d_normal.jpeg HTTP/1.1" 200 746
+INFO - [Jul  1 22:42:26] 127.0.0.1:36975 "GAE GET https://si0.twimg.com/profile_images/2673735348/331cefd2263bbc754979526b3fd48e4d_normal.png HTTP/1.1" 200 5982
+INFO - [Jul  1 22:42:26] 127.0.0.1:36978 "GAE GET https://si0.twimg.com/profile_images/2823681988/f4f6f2bed8ab4d5a48dea4b9ea85d5f1_normal.jpeg HTTP/1.1" 200 902
+INFO - [Jul  1 22:42:26] 127.0.0.1:36974 "GAE GET https://twitter.com/i/promoted_content/log.json?event=impression&impression_id=4d57a13eefe50d9e HTTP/1.1" 500 56
+INFO - [Jul  1 22:42:33] 127.0.0.1:36985 "GAE GET http://t.co/3YWFYeNqVS HTTP/1.1" 200 117
+INFO - [Jul  1 22:42:35] 127.0.0.1:36988 "GAE GET http://ow.ly/mxrFY HTTP/1.1" 301 2
+INFO - [Jul  1 22:42:37] 127.0.0.1:37002 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:38] 127.0.0.1:37003 "GAE GET http://www.blogger.com/static/v1/widgets/4120254780-widgets.js HTTP/1.1" 200 35663
+INFO - [Jul  1 22:42:38] 127.0.0.1:36993 "GAE GET http://www.blogger.com/dyn-css/authorization.css?targetBlogID=2297076251126564881&zx=56cadf64-3bdd-48eb-9d1e-29aa3e530523 HTTP/1.1" 200 3
+INFO - [Jul  1 22:42:38] 127.0.0.1:37008 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/styles/shCore.css HTTP/1.1" 200 1295
+INFO - [Jul  1 22:42:38] 127.0.0.1:37011 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/styles/shThemeDefault.css HTTP/1.1" 200 649
+INFO - [Jul  1 22:42:39] 127.0.0.1:37014 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shCore.js HTTP/1.1" 200 16175
+INFO - [Jul  1 22:42:39] 127.0.0.1:37017 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushCpp.js HTTP/1.1" 200 5284
+INFO - [Jul  1 22:42:39] 127.0.0.1:37023 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushCss.js HTTP/1.1" 200 5694
+INFO - [Jul  1 22:42:39] 127.0.0.1:37002 "GAE GET https://apis.google.com/js/plusone.js HTTP/1.1" 304 0
+INFO - [Jul  1 22:42:39] 127.0.0.1:37020 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushCSharp.js HTTP/1.1" 200 2528
+INFO - [Jul  1 22:42:39] 127.0.0.1:37027 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushJava.js HTTP/1.1" 200 2101
+INFO - [Jul  1 22:42:39] 127.0.0.1:37030 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushJScript.js HTTP/1.1" 200 1649
+INFO - [Jul  1 22:42:40] 127.0.0.1:37033 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushPhp.js HTTP/1.1" 200 5246
+INFO - [Jul  1 22:42:40] 127.0.0.1:37036 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushPython.js HTTP/1.1" 200 2437
+INFO - [Jul  1 22:42:40] 127.0.0.1:37042 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushSql.js HTTP/1.1" 200 3054
+INFO - [Jul  1 22:42:40] 127.0.0.1:37039 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushRuby.js HTTP/1.1" 200 2188
+INFO - [Jul  1 22:42:40] 127.0.0.1:37045 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushVb.js HTTP/1.1" 200 2281
+INFO - [Jul  1 22:42:41] 127.0.0.1:37048 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushXml.js HTTP/1.1" 200 1998
+INFO - [Jul  1 22:42:41] 127.0.0.1:37051 "GAE GET http://agorbatchev.typepad.com/pub/sh/3_0_83/scripts/shBrushPerl.js HTTP/1.1" 200 3176
+INFO - [Jul  1 22:42:41] 127.0.0.1:37059 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:41] 127.0.0.1:37062 "FWD GET http://lh4.googleusercontent.com/-rDenEI2wQb8/AAAAAAAAAAI/AAAAAAAAMOw/49bU98MNnYs/s512-c/photo.jpg HTTP/1.1" 200 133036
+INFO - [Jul  1 22:42:41] 127.0.0.1:37065 "FWD GET http://www.google.com/images/icons/ui/gprofile_button-16.png HTTP/1.1" 200 492
+INFO - [Jul  1 22:42:42] 127.0.0.1:37055 "GAE GET http://www.blogger.com/img/share_buttons_20_2.png HTTP/1.1" 200 3946
+INFO - [Jul  1 22:42:42] 127.0.0.1:37068 "GAE GET http://platform.twitter.com/widgets.js HTTP/1.1" 200 27016
+INFO - [Jul  1 22:42:42] 127.0.0.1:37059 "GAE GET https://apis.google.com/_/+1/fastbutton?bsv&source=blogger%3Ablog%3Aplusone&size=medium&width=300&annotation=inline&hl=en-US&origin=http%3A%2F%2Fvignesh.foamsnet.com&url=http%3A%2F%2Fvignesh.foamsnet.com%2F2013%2F06%2Fusing-hash-tags-to-organize-bash-history.html&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.zh_CN.NCl3aH13Vn8.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ HTTP/1.1" 200 11470
+INFO - [Jul  1 22:42:42] 127.0.0.1:37079 "FWD CONNECT lh4.googleusercontent.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:42] 127.0.0.1:37076 "GAE GET http://www.blogger.com/navbar.g?targetBlogID=2297076251126564881&blogName=Je+L'ai+Dit&publishMode=PUBLISH_MODE_HOSTED&navbarType=BLUE&layoutType=LAYOUTS&searchRoot=http://vignesh.foamsnet.com/search&blogLocale=en&v=2&homepageUrl=http://vignesh.foamsnet.com/&targetPostID=5034729832927400626&blogPostOrPageUrl=http://vignesh.foamsnet.com/2013/06/using-hash-tags-to-organize-bash-history.html&blogFollowUrl=https://plus.google.com/111270540192666136025&vt=8712220559884343242&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.zh_CN.NCl3aH13Vn8.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ HTTP/1.1" 200 2694
+INFO - [Jul  1 22:42:43] 127.0.0.1:37082 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:43] 127.0.0.1:37083 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:44] 127.0.0.1:37083 "GAE GET https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.zh_CN.NCl3aH13Vn8.O/m=plus,plusone/rt=j/sv=1/d=1/ed=1/am=EQ/rs=AItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ/cb=gapi.loaded_0 HTTP/1.1" 200 47292
+INFO - [Jul  1 22:42:44] 127.0.0.1:37082 "GAE GET https://apis.google.com/_/+1/sharebutton?plusShare=true&bsv&action=share&annotation=bubble&height=20&source=blogger%3Anavbar%3Ashare&hl=zh_CN&origin=http%3A%2F%2Fwww.blogger.com&url=http%3A%2F%2Fvignesh.foamsnet.com%2F2013%2F06%2Fusing-hash-tags-to-organize-bash-history.html&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.zh_CN.NCl3aH13Vn8.O%2Fm%3D__features__%2Fam%3DEQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTP8eHSivAwKGI_d1CY3AEGyfUPBIQ HTTP/1.1" 200 7478
+INFO - [Jul  1 22:42:44] 127.0.0.1:37088 "AGENT CONNECT apis.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:45] 127.0.0.1:37088 "GAE GET https://apis.google.com/_/scs/apps-static/_/js/k=oz.plusone.zh_CN.4rDV7vs1QVU.O/m=p1b,psb/am=FA/rt=j/d=1/rs=AItRSTPDvP35O4rfSWhuklglgLOjOKNbew HTTP/1.1" 200 23530
+INFO - [Jul  1 22:42:53] 127.0.0.1:37091 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:42:54] 127.0.0.1:37091 "GAE GET https://twitter.com/i/timeline?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=30000&latent_count=0&since_id=351712107680632832 HTTP/1.1" 200 62
+INFO - [Jul  1 22:43:53] 127.0.0.1:37094 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:43:54] 127.0.0.1:37094 "GAE GET https://twitter.com/i/timeline?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=60000&latent_count=0&since_id=351712107680632832 HTTP/1.1" 200 2134
+INFO - [Jul  1 22:43:54] 127.0.0.1:37097 "AGENT CONNECT si0.twimg.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:43:56] 127.0.0.1:37097 "GAE GET https://si0.twimg.com/profile_images/3282356584/7f015edff5ce0898555d761334de99e8_normal.png HTTP/1.1" 200 5122
+INFO - [Jul  1 22:44:10] 127.0.0.1:37100 "FWD CONNECT clients4.google.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:45:53] 127.0.0.1:37106 "AGENT CONNECT twitter.com:443 HTTP/1.1" - -
+INFO - [Jul  1 22:45:54] 127.0.0.1:37106 "GAE GET https://twitter.com/i/timeline?composed_count=0&include_available_features=1&include_entities=1&include_new_items_bar=true&interval=120000&latent_count=1&since_id=351712706581114881 HTTP/1.1" 200 62
